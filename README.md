@@ -38,5 +38,3 @@ Im Buch zeige ich, wie man eine eigene Action bauen kann, die neue Issues automa
 * Workflow-Datei: [.github/workflows/issuelabeler.yml](.github/workflows/issuelabeler.yml)
 * Action-Datei: [.github/actions/issuelabeler/action.yml](.github/actions/issuelabeler/action.yml)
 * JavaScript-Datei: [.github/actions/issuelabeler/index.js](.github/actions/issuelabeler/index.js)
-
-Wer die Action in Aktion sehen will oder ein funktionstüchtiges Repository forken möchte, kann das hier machen: [githubbuch/issuelabeler](https://github.com/githubbuch/issuelabeler)
