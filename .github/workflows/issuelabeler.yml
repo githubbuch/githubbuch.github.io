@@ -1,0 +1,20 @@
+name: labeling_workflow
+
+on:
+  issues:
+    types: [opened, edited, reopened]
+
+jobs:
+  label_issue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Print Hello world
+        run: echo Hello world!
+
+      - name: label-step
+        uses: ./.github/actions/issuelabeler
+        with:
+          repo-token: ${{secrets.GITHUB_TOKEN}}
