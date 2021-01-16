@@ -14,6 +14,8 @@ Du wirst hier folgende Sachen finden:
 
 Die Linksammlung des Buches findest du entweder bei den Dateien nach dem Muster *CHXX.md* (*XX* steht dabei für die Kapitelzahl) oder du gehst auf die eigens dafür erstellte [Website](https://githubbuch.github.io).
 
+<br>
+
 ## Referenz für GitHub Pages
 
 Schau dir folgende Dateien an:
