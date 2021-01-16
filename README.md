@@ -2,7 +2,7 @@
 ---
 # Willkommen im Repository des Buches "GitHub – Eine praktische Einführung"
 
-<img align="left" width="1000" height="1455" src="http://githubbuch.github.io/assets/images/Buchcover_1000.jpg">
+<img align="left" width="500" height="728" src="http://githubbuch.github.io/assets/images/Buchcover_500.jpg">
 
 Du wirst hier folgende Sachen finden:
 
