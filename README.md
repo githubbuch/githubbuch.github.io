@@ -2,7 +2,7 @@
 ---
 # Willkommen im Repository des Buches "GitHub – Eine praktische Einführung"
 
-<img align="left" width="200" height="291" src="http://githubbuch.github.io/assets/images/Buchcover_200.jpg">
+<img align="left" width="200" height="291" src="https://githubbuch.github.io/assets/images/Buchcover_200.jpg">
 
 Du wirst hier folgende Sachen finden:
 
@@ -12,7 +12,7 @@ Du wirst hier folgende Sachen finden:
 
 ## Linksammlung zum Buch
 
-Die Linksammlung des Buches findest du entweder bei den Dateien nach dem Muster *CHXX.md* (*XX* steht dabei für die Kapitelzahl) oder du gehst auf die eigens dafür erstellte [Website](githubbuch.github.io).
+Die Linksammlung des Buches findest du entweder bei den Dateien nach dem Muster *CHXX.md* (*XX* steht dabei für die Kapitelzahl) oder du gehst auf die eigens dafür erstellte [Website](https://githubbuch.github.io).
 
 ## Referenz für GitHub Pages
 
