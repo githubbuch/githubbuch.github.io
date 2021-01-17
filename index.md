@@ -6,11 +6,9 @@
 <a href="https://oreilly.de/produkt/github-eine-praktische-einfuehrung/"><img align="left" width="200" height="291" src="https://githubbuch.github.io/assets/images/Buchcover_200.jpg"></a>
 Diese Website dient dazu, alle Links aus dem Buch "GitHub – Eine praktische Einführung" zu sammeln und zu veröffentlichen. Da einige der Links etwas länger und komplizierter sind, wollte ich meinen geneigten Leserinnen und Lesern das Abtippen ersparen.
 
-<br>
-
 ## Übersicht der Kapitel
 
-Die unten aufgeführten Kapitel sind Teile des Buch-Inhaltsverzeichnisses. In jedem Kapitel sind diverse Links gesetzt, die auf dieser Website gesammelt sind.
+Die Links sind nach den Kapiteln des Buches sortiert:
 
 * [Vorwort](CH00): Vorwort
 * [Kapitel 1](CH01): Was ist GitHub, und wofür brauche ich es?
