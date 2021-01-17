@@ -1,12 +1,12 @@
 # Willkommen im Repository des Buches "GitHub – Eine praktische Einführung"
 
-<a href="https://oreilly.de/produkt/github-eine-praktische-einfuehrung/"><img align="left" width="200" height="291" src="https://githubbuch.github.io/assets/images/Buchcover_200.jpg" style="float: right; margin-left: 25px; margin-bottom: 15px;"></a>
+<a href="https://oreilly.de/produkt/github-eine-praktische-einfuehrung/"><img align="left" width="200" height="291" src="https://githubbuch.github.io/assets/images/Buchcover_200.jpg"></a>
 
 Du wirst hier folgende Sachen finden:
 
-1. Die Linksammlung zum Buch
-2. Eine Referenz, wie man aus einem Repository mittels GitHub Pages eine Website generiert (Kapitel 10)
-3. Den Quellcode aus Kapitel 9 ("Der GitHub Marketplace – Actions und Apps")
+* Die Linksammlung zum Buch
+* Eine Referenz, wie man aus einem Repository mittels GitHub Pages eine Website generiert (Kapitel 10)
+* Den Quellcode aus Kapitel 9 ("Der GitHub Marketplace – Actions und Apps")
 
 ## Linksammlung zum Buch
 
