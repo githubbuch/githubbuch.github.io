@@ -3,7 +3,7 @@
 # Die Linksammlung zum Buch "GitHub – Eine praktische Einführung"
 ## "Von den ersten Schritten bis zu eigenen GitHub Actions"
 
-![Buchcover](buchcover.jpg)
+<a href="https://oreilly.de/produkt/github-eine-praktische-einfuehrung/"><img align="left" width="200" height="291" src="https://githubbuch.github.io/assets/images/Buchcover_200.jpg"></a>
 
 Die unten aufgeführten Kapitel sind Teile des Buch-Inhaltsverzeichnisses. In jedem Kapitel sind diverse Links gesetzt, die auf dieser Website gesammelt sind.
 
@@ -21,6 +21,3 @@ Die unten aufgeführten Kapitel sind Teile des Buch-Inhaltsverzeichnisses. In je
 * [Kapitel 11](CH11): Nützliches und Kurioses rund um GitHub
 
 Suchst du den Quellcode aus Kapitel 9? [Hier geht es lang](https://github.com/githubbuch/githubbuch.github.io/).
-
-https://www.markdownguide.org/cheat-sheet
-https://guides.github.com/features/mastering-markdown/
