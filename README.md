@@ -1,6 +1,6 @@
 # Willkommen im Repository des Buches "GitHub – Eine praktische Einführung"
 
-<img align="left" width="200" height="291" src="https://githubbuch.github.io/assets/images/Buchcover_200.jpg" style="float: right; margin-left: 25px; margin-bottom: 15px;">
+<a href="https://oreilly.de/produkt/github-eine-praktische-einfuehrung/"><img align="left" width="200" height="291" src="https://githubbuch.github.io/assets/images/Buchcover_200.jpg" style="float: right; margin-left: 25px; margin-bottom: 15px;"></a>
 
 Du wirst hier folgende Sachen finden:
 
